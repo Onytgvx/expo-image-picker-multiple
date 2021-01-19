@@ -1,6 +1,6 @@
 {
   "name": "@onytgvx/multiple-image-selector",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Multiple image selecting package for React Native using Expo FileSystem",
   "main": "index.js",
   "scripts": {
